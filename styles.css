@@ -63,14 +63,14 @@
   }
 }
 
-.post {
+/* .post {
   /* float: right; */
   position: absolute;
   transform: rotateZ(90deg) translateX(75%) translateY(-900%);
   font-family: "Poppins";
   font-weight: 400;
   text-transform: uppercase;
-}
+} */
 
 .image {
   height: auto;
